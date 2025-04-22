@@ -12,7 +12,7 @@ agent_options:
 controls:
 org_settings:
   org_info:
-    org_name: SuperSaiyan
+    org_name: Super Saiyan
   webhook_settings:
     activities_webhook:
       enable_activities_webhook: true
